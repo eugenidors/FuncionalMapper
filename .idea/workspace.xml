@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7fc09e0-1048-4c1d-a9c0-a5b4fd764967" name="Default Changelist" comment="" />
+    <list default="true" id="d7fc09e0-1048-4c1d-a9c0-a5b4fd764967" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/io/mapper/FunctionalMapperImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuncionalMapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FuncionalMapper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/mapper/FunctionalMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/mapper/FunctionalMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/mapper/FunctionalMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/mapper/FunctionalMapperImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +22,16 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -18,6 +41,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1c00FeCxTgvCq6TUARGEdm5Qyl3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,15 +51,45 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/io/mapper" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eugenio.m.alvarez\Documents\FORMACION\DESARROLLOS PERSONALES\FuncionalMapper\src" />
+      <recent name="C:\Users\eugenio.m.alvarez\Documents\FORMACION\DESARROLLOS PERSONALES\FuncionalMapper\src\main\java" />
+      <recent name="C:\Users\eugenio.m.alvarez\Documents\FORMACION\DESARROLLOS PERSONALES\FuncionalMapper" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\eugenio.m.alvarez\Documents\FORMACION\DESARROLLOS PERSONALES\FuncionalMapper\src\io\mapper" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FunctionalMapperImplTest.entityToDTO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FuncionalMapper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.mapper" />
+      <option name="MAIN_CLASS_NAME" value="io.mapper.FunctionalMapperImplTest" />
+      <option name="METHOD_NAME" value="entityToDTO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FunctionalMapperImplTest.entityToDTO" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -53,9 +109,29 @@
       <screen x="162" y="0" width="1374" height="864" />
     </state>
     <state x="442" y="90" key="#Project_Structure/162.0.1374.864@162.0.1374.864" timestamp="1589650184559" />
-    <state x="330" y="6" key="SettingsEditor" timestamp="1589650518348">
+    <state width="1331" height="188" key="GridCell.Tab.0.bottom" timestamp="1589658389419">
       <screen x="162" y="0" width="1374" height="864" />
     </state>
-    <state x="330" y="6" key="SettingsEditor/162.0.1374.864@162.0.1374.864" timestamp="1589650518348" />
+    <state width="1331" height="188" key="GridCell.Tab.0.bottom/162.0.1374.864@162.0.1374.864" timestamp="1589658389419" />
+    <state width="1331" height="188" key="GridCell.Tab.0.center" timestamp="1589658389418">
+      <screen x="162" y="0" width="1374" height="864" />
+    </state>
+    <state width="1331" height="188" key="GridCell.Tab.0.center/162.0.1374.864@162.0.1374.864" timestamp="1589658389418" />
+    <state width="1331" height="188" key="GridCell.Tab.0.left" timestamp="1589658389418">
+      <screen x="162" y="0" width="1374" height="864" />
+    </state>
+    <state width="1331" height="188" key="GridCell.Tab.0.left/162.0.1374.864@162.0.1374.864" timestamp="1589658389418" />
+    <state width="1331" height="188" key="GridCell.Tab.0.right" timestamp="1589658389418">
+      <screen x="162" y="0" width="1374" height="864" />
+    </state>
+    <state width="1331" height="188" key="GridCell.Tab.0.right/162.0.1374.864@162.0.1374.864" timestamp="1589658389418" />
+    <state x="330" y="6" key="SettingsEditor" timestamp="1589653456242">
+      <screen x="162" y="0" width="1374" height="864" />
+    </state>
+    <state x="330" y="6" key="SettingsEditor/162.0.1374.864@162.0.1374.864" timestamp="1589653456242" />
+    <state x="512" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1589653698748">
+      <screen x="162" y="0" width="1374" height="864" />
+    </state>
+    <state x="512" y="181" width="672" height="678" key="search.everywhere.popup/162.0.1374.864@162.0.1374.864" timestamp="1589653698748" />
   </component>
 </project>
