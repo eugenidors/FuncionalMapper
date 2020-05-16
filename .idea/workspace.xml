@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7fc09e0-1048-4c1d-a9c0-a5b4fd764967" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c00FeCxTgvCq6TUARGEdm5Qyl3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/io/mapper" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eugenio.m.alvarez\Documents\FORMACION\DESARROLLOS PERSONALES\FuncionalMapper\src\io\mapper" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7fc09e0-1048-4c1d-a9c0-a5b4fd764967" name="Default Changelist" comment="" />
+      <created>1589650100087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589650100087</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="90" key="#Project_Structure" timestamp="1589650184559">
+      <screen x="162" y="0" width="1374" height="864" />
+    </state>
+    <state x="442" y="90" key="#Project_Structure/162.0.1374.864@162.0.1374.864" timestamp="1589650184559" />
+    <state x="330" y="6" key="SettingsEditor" timestamp="1589650518348">
+      <screen x="162" y="0" width="1374" height="864" />
+    </state>
+    <state x="330" y="6" key="SettingsEditor/162.0.1374.864@162.0.1374.864" timestamp="1589650518348" />
+  </component>
+</project>
