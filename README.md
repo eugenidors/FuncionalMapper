@@ -13,15 +13,15 @@
                 
 prevent you from using
 
-     List<Employee> employees = entity.getEmployees();
+     List<Employee> employees = entity.getEmployees();          //entity::getEmployees,
         if(employees!=null && employees.size()>0){
-            Employee employee = employees.get(0);
-            List<Project> projects = expediente.getProjects();
+            Employee employee = employees.get(0);               //ListUtils::getFirstValue
+            List<Project> projects = employee.getProjects();    //Employee::getProjects
             if(projects!=null && projects.size()>0){
-                Project project = projects.get(0); 
+                Project project = projects.get(0);              //ListUtils::getFirstValue
                 if(project!=null){
-                    String projectName = project.getName();
-                    dto.setProjectName(projectName);
+                    String projectName = project.getName();     //Project::getName
+                    dto.setProjectName(projectName);            //setter
                 }
         }
         
@@ -31,7 +31,7 @@ prevent you from using
                 User::getAccount,
                 Account::getId);
                 
-        //vs
+   vs
         
         if(entity.getUser()!=null){
             Account account = entity.getUser().getAccount();
