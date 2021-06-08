@@ -1,9 +1,16 @@
 # FuncionalMapper
- Snippet classes that allow to set properties using JDK8 functional programming, avoiding NullpointerException
+ Snippet classes that allow to set properties using JDK8 functional programming, avoiding NullpointerException.
+ 
+# before
+       @Autowired
+       private MapperFunctionalUtils mapper;  //inject component
+       
+       //or initalize
+       MapperFunctionalUtils mapper = new MapperFunctionalUtilsImpl();
 
 # Use
-
-       mapperUtils.map(dto::setProjectName,   //setter
+    
+       mapper.map(dto::setProjectName,   //setter
                 entity::getEmployees,         //getter
                 ListUtils::getFirstValue,     //function that accepts getter result (if null not apply)
                 Employee::getProjects,        //function that accepts getter result
@@ -27,7 +34,7 @@ prevent you from using
         
         
   # Other uses
-         Integer idAccount = mapperUtils.getNullSafe(entity::getUser,
+         Integer idAccount = mapper.getNullSafe(entity::getUser,
                 User::getAccount,
                 Account::getId);
                 
